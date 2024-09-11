@@ -32,3 +32,11 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+input{
+  outline: none;
+}
+
+fieldset{
+  margin: 0px;
+}
